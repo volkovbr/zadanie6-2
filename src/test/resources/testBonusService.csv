@@ -1,0 +1,4 @@
+testRegisteredBonusNoLimit, 1010, true, 30
+testRegisteredBonusOverLimit, 100000, true, 500
+testNoRegisteredBonusNoLimit, 1000, false, 10
+testNoRegisterdBonusOverLimit, 100000, false, 500
